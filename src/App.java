@@ -51,7 +51,7 @@ public class App {
                         System.out.println("Cantidad de estudiantes que perdieron: " + (cantidadEstudiantes - ganaron));
                         
                         break;
-                    case "2":
+                    case "2": 
                             System.out.println("Hola estudiante");
                             System.out.println("1 - Lógica de programación");
                             System.out.println("1 - Introducción a la programación");
